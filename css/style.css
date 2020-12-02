@@ -362,10 +362,6 @@ h1, h2, h3, h4, h5,
         padding-left: 20px;
         padding-right: 20px;
         color: #b30602; }
-        .site-navbar .site-navigation .site-menu > li.cta > a:hover {
-          color: #fff; }
-          .site-navbar .site-navigation .site-menu > li.cta > a:hover:after {
-            display: none; }
     .site-navbar .site-navigation .site-menu .has-children {
       position: relative; }
       .site-navbar .site-navigation .site-menu .has-children > a {
@@ -695,7 +691,7 @@ h1, h2, h3, h4, h5,
   padding: 30px; }
   .pricing h2 {
     font-size: 26px;
-    color: #fff;
+    color: #262a56;
     margin-bottom: 30px; }
   .pricing .amount {
     color: #b30602;
@@ -709,7 +705,7 @@ h1, h2, h3, h4, h5,
     margin-bottom: 10px; }
 
 .border-primary:hover {
-  border-color: #ffffff !important; }
+  border-color: #262a56 !important; }
 
 .block-13, .slide-one-item {
   position: relative;
