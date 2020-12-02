@@ -32,16 +32,18 @@
   <script> (function (d, s) {
       var js = d.createElement(s),
         sc = d.getElementsByTagName(s)[0];
-      js.src = "https://paywall.unlock-protocol.com/static/unlock.1.0.min.js";
+      js.src = "https://paywall.unlock-protocol.com/static/unlock.latest.min.js";
       sc.parentNode.insertBefore(js, sc);
     }(document, "script"));
   </script>
   <script>
-    var unlockProtocolConfig = { "locks": { "0x26B649afEd9d33a6209959921555D3a475192405": { "name": "EthCC" } }, "icon": "https://unlock-protocol.com/static/images/svg/unlock-word-mark.svg", "callToAction": { "default": "Purchase your ticket by clicking on 'Purchase' below. Your web3 wallet will ask you to confirm 2 transactions: one for the DAI transfer, and one for the ticket purchase." } }
+    var unlockProtocolConfig = { "locks": { "": { "name": "EthCC 4" } }, "icon": "https://unlock-protocol.com/static/images/svg/unlock-word-mark.svg",
+		"callToAction": { "default": "Purchase your ticket by clicking on 'Purchase' below. Your web3 wallet will ask you to confirm 2 transactions: one for the DAI transfer, and one for the ticket purchase.",
+		} }
   </script>
 
   <!-- Kyber widget -->
-  <link rel='stylesheet' href='https://widget.kyber.network/v0.7.4/widget.css'>
+  <link rel='stylesheet' href='https://widget.kyber.network/v0.8.0/widget.css'>
 </head>
 
 <body>
@@ -108,6 +110,7 @@
               <li>EthCC Swag</li>
             </ul>
             <div>
+				<!-- UPDATE THIS -->
               <a href="https://www.weezevent.com/widget_billeterie.php?id_evenement=511172&lg_billetterie=2&code=18201&width_auto=1&color_primary=00AEEF"
                 onclick="var w=window.open('https://www.weezevent.com/widget_billeterie.php?id_evenement=511172&lg_billetterie=2&code=18201&width_auto=1&color_primary=00AEEF', 'Billetterie_weezevent', 'width=650, height=600, top=100, left=100, toolbar=no, resizable=yes, scrollbars=yes, status=no'); w.focus(); return false;"
                 class="btn btn-primary px-4 py-2">Buy Ticket</a></div>
@@ -117,15 +120,11 @@
         </div>
 
         <!-- LINKS TO UNLOCK PROTOCOL FOR CRYPTO PAYMENTS -->
-        <!-- <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
           <div class="pricing border-primary text-center">
             <h2>Buy in Crypto</h2>
-            <p style="color: #ffffff">LIMITED OFFER ! Get 10% off thanks to: </p>
-            <a href="https://unlock-protocol.com/"> <img src="/images/Unlock_logo.png" class="sponsor-iron-4" alt=""> </a>
-            <a href="https://kyber.network/"> <img src="/images/Kyber_logo.png" class="sponsor-iron-4" alt=""> </a>
-            <a href="https://makerdao.com/en/"> <img src="/images/Maker_logo.png" class="sponsor-iron-4" alt=""> </a>
-            <div class="amount"><sup>DAI</sup><span class="number">290</span>
-              <span class="number" style="text-decoration: line-through; font-style: italic;"> 325</span></div>
+            <div class="amount"><sup>DAI</sup><span class="number">250</span>
+              <span class="number" style="text-decoration: line-through; font-style: italic;"></span></div>
             <ul class="list-unstyled mb-5">
               <li>3-Days Pass</li>
               <li>Free Catering</li>
@@ -136,14 +135,14 @@
             </div>
 
             <small><a
-                href='https://widget.kyber.network/v0.7.4/?type=buy&mode=popup&lang=en&pinnedTokens=ETH_KNC_DAI&receiveToken=DAI&receiveAmount=290&paramForwarding=true&network=mainnet&theme=theme-dark'
+                href='https://widget.kyber.network/v0.8.0/?type=buy&mode=popup&lang=en&pinnedTokens=ETH_KNC_DAI&receiveToken=DAI&receiveAmount=250&paramForwarding=true&network=mainnet&theme=theme-dark'
                 class='kyber-widget-button' id="kyber-btn" name='KyberWidget - Powered by KyberNetwork'
                 title='Pay with tokens' target='_blank' style="font-style:bolder">Need to buy DAI?</a> </small>
           </div>
-        </div> -->
+        </div>
 
         <!-- unlock form itself -->
-        <!-- <form id="unlock-form" class="unlock_form mfp-hide">
+        <form id="unlock-form" class="unlock_form mfp-hide">
 
           <h2>Unlock Ticket</h2>
 
@@ -216,7 +215,7 @@
             </fieldset>
           </div>
 
-        <!-- </form> -->
+        </form>
 
         <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
           <div class="pricing border-primary text-center">
@@ -384,7 +383,7 @@
   <script src="js/bootstrap-datepicker.min.js"></script>
   <script src="js/aos.js"></script>
   <script src="https://cdn.ethers.io/scripts/ethers-v4.min.js"></script>
-  <script async src='https://widget.kyber.network/v0.7.4/widget.js'></script>
+  <script async src='https://widget.kyber.network/v0.8.0/widget.js'></script>
 
   <script src="js/main.js"></script>
   <script src="js/unlock.js"></script>
