@@ -7,7 +7,7 @@
 
 .unlock_form {
   position: relative;
-  background: #232531;
+  background: #fffde8;
   padding: 20px;
   width: auto;
   max-width: 500px;
@@ -17,7 +17,7 @@
 .unlock_form h2 {
   position: relative;
   font-size: 2.5rem;
-  color: #fff;
+  color: 262a56;
   padding-bottom: 30px;
 }
 
