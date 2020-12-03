@@ -1997,13 +1997,13 @@ fieldset:disabled a.btn {
   pointer-events: none; }
 
 .btn-primary {
-  color: #fff;
-  background-color: #b30602;
-  border-color: #b30602; }
+  color: #fffde8;
+  background-color: #fffde8;
+  border-color: #262a56; }
   .btn-primary:hover {
-    color: #fff;
-    background-color: #ff380d;
-    border-color: #ff2d00; }
+    color: #b30602;
+    background-color: #b30602;
+    border-color: #262a56; }
   .btn-primary:focus, .btn-primary.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 87, 51, 0.5);
     box-shadow: 0 0 0 0.2rem rgba(255, 87, 51, 0.5); }
