@@ -21,11 +21,11 @@ function vcReadMore() {
 
   if (extra.style.display === "none") {
     extra.style.display = "inline";
-    vcbtnText.innerHTML = "Read more";
+    vcbtnText.innerHTML = "Read More";
     plus.style.display = "none";
   } else {
     extra.style.display = "none";
-    vcbtnText.innerHTML = "Read less";
+    vcbtnText.innerHTML = "Read Less";
     plus.style.display = "inline";
   }
 }
@@ -42,29 +42,29 @@ var equity = document.getElementById("equity");
 var token = document.getElementById("token");
 
 
-function countdownStartups() {
-  node.innerHTML = cpt;
-  if( cpt < n ) {
-     setTimeout(countdownStartups, delta);
+// function countdownStartups() {
+//   node.innerHTML = cpt;
+//   if( cpt < n ) {
+//      setTimeout(countdownStartups, delta);
 
-  }
-}
-function countdownEquity() {
-  equity.innerHTML = ++cpt;
-  if( cpt < m) {
-     setTimeout(countdownEquity, delta)
-  }
-}
-function countdownToken() {
-  token.innerHTML = cpt;
-  if( cpt < o) {
-     setTimeout(countdownToken, delta)
-  }
-}
+//   }
+// }
+// function countdownEquity() {
+//   equity.innerHTML = ++cpt;
+//   if( cpt < m) {
+//      setTimeout(countdownEquity, delta)
+//   }
+// }
+// function countdownToken() {
+//   token.innerHTML = cpt;
+//   if( cpt < o) {
+//      setTimeout(countdownToken, delta)
+//   }
+// }
 
-setTimeout(function() {
-  countdownStartups() // runs first
-  countdownEquity() // runs second
-  countdownToken()
-}, delta)
+// setTimeout(function() {
+//   countdownStartups() // runs first
+//   countdownEquity() // runs second
+//   countdownToken()
+// }, delta)
 
