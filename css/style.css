@@ -651,6 +651,10 @@ h1, h2, h3, h4, h5,
   .btn-custom:hover:before {
     width: 100%; }
 
+input.btn-custom:hover {
+  cursor: pointer;
+}
+
 .coordinator img {
   max-width: 50px;
   border-radius: 50%; }
