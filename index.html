@@ -32,17 +32,17 @@
   <script src="https://kit.fontawesome.com/c74a90064a.js" crossorigin="anonymous"></script>
 
   <!-- Unlock Tickets -->
-  <!-- <link rel="stylesheet" href="css/unlock.css">
+  <link rel="stylesheet" href="css/unlock.css">
   <script> (function (d, s) {
       var js = d.createElement(s),
         sc = d.getElementsByTagName(s)[0];
-      js.src = "https://paywall.unlock-protocol.com/static/unlock.1.0.min.js";
+      js.src = "https://paywall.unlock-protocol.com/static/unlock.latest.min.js";
       sc.parentNode.insertBefore(js, sc);
     }(document, "script"));
   </script>
   <script>
-    var unlockProtocolConfig = { "locks": { "0x7FE9143379a59329AfD7D25E52696A6F1Db28D36": { "name": "EthCC" } }, "icon": "https://unlock-protocol.com/static/images/svg/unlock-word-mark.svg", "callToAction": { "default": "Purchase your ticket by clicking on 'Purchase' below. Your web3 wallet will ask you to confirm 2 transactions: one for the DAI transfer, and one for the ticket purchase." } }
-  </script> -->
+    var unlockProtocolConfig = { "locks": { "0xd2a5e511c4a2d8b6efd5173ab4ab0b8c94cba9f7": { "name": "EthCC 4 Early Birds" } }, "icon": "https://unlock-protocol.com/static/images/svg/unlock-word-mark.svg", "callToAction": { "default": "Purchase your ticket by clicking on 'Purchase' below. Your web3 wallet will ask you to confirm 2 transactions: one for the DAI transfer, and one for the ticket purchase." } }
+  </script>
 
 
 </head>
@@ -102,8 +102,8 @@
             data-aos-delay="400" style="letter-spacing:0; font-size: 18px"><span> 🐣 Buy Early Bird Ticket in €
               🐣</span></a> <br><br>
 
-          <!-- <a href="#unlock-form" class="btn-custom  unlock-popup" data-aos="fade-up" data-aos-delay="400"
-            style="letter-spacing:0; font-size: 18px"><span> 🚀Buy Early Bird Ticket in Crypto🚀</span></a> -->
+          <a href="#unlock-form" class="btn-custom  unlock-popup" data-aos="fade-up" data-aos-delay="400"
+            style="letter-spacing:0; font-size: 18px"><span> 🚀Buy Early Bird Ticket in Crypto🚀</span></a>
         </div>
       </div>
     </div>
@@ -354,6 +354,83 @@
       </div>
     </div>
   </footer>
+        <!-- unlock form itself -->
+        <form id="unlock-form" class="unlock_form mfp-hide">
+
+          <h2>Unlock Ticket</h2>
+
+          <!-- shown for users with no wallet -->
+          <div class="no-wallet">
+            <p>Please make sure you use a web3 wallet. <br>We recommend <a href="https://metamask.io/">MetaMask</a>.
+            </p>
+          </div>
+
+          <!-- shown for users with a wallet disabled -->
+          <div class="has-wallet">
+            <p>Please check your wallet and enable it.</p>
+          </div>
+
+          <!-- shown for users who already have a ticket -->
+          <div class="has-wallet-has-ticket">
+            <p>You already have a ticket! Thanks for your trust and we're looking forward to seeing you!</p>
+            <p>On the day of the event, we recommend that you bring your mobile web3 wallet to show your ticket. You
+              can also receive the ticket as a QR code by email by <a target="_blank"
+                href="https://app.unlock-protocol.com/keychain/">going to your keychain</a> and clicking on
+              <em>Assert Ownership</em>!</p>
+
+          </div>
+
+          <!-- shown for users who have a wallet but no ticket yet -->
+          <div class="has-wallet-no-ticket">
+            <fieldset style="border:0;">
+              <p>Please fill this form and submit to purchase a ticket with crypto. Your wallet will prompt you to
+                sign this information and then ask you to confirm your purchase!</p>
+              <ol>
+                <li>
+                  <label for="full_name">Full Name</label>
+                  <input id="full_name" name="full_name" type="text" placeholder="Full Name" required="">
+                </li>
+                <li>
+                  <label for="email">Email</label>
+                  <input id="email" name="email" type="email" placeholder="example@domain.com" required="">
+                </li>
+                <li>
+                  <label for="phone">Phone</label>
+                  <input id="phone" name="phone" type="tel" placeholder="Eg. +447500000000" required="">
+                </li>
+              </ol>
+              <h3>Billing info</h3>
+              <p>If you want to receive an invoice (optional), please fill in the following info.</p>
+              <ol>
+                <li>
+                  <label for="address_1">Address</label>
+                  <input id="address_1" name="address_1" type="text" placeholder="Billing address">
+                  <input id="address_2" name="address_2" type="text" placeholder="">
+                </li>
+
+                <li>
+                  <label for="zipcode">Zip Code</label>
+                  <input id="zipcode" name="zipcode" type="text" placeholder="Billing zipcode">
+                </li>
+
+                <li>
+                  <label for="city">City</label>
+                  <input id="city" name="city" type="text" placeholder="Billing City">
+                </li>
+
+                <li>
+                  <label for="country">Country</label>
+                  <input id="country" name="country" type="text" placeholder="Billing Country">
+                </li>
+              </ol>
+
+              <input type="submit" value="Save" class="btn btn-primary py-2 px-4 text-white">
+            </fieldset>
+          </div>
+
+        </form>
+
+
 
 
 
