@@ -21,6 +21,13 @@ var speakers = [
         "picture": "images/speakers/Tim_Beiko.jpg"
     },
     {
+        "company": "The Graph",
+        "first_name": "Tegan",
+        "last_name": "Kline",
+        "link": "https://twitter.com/theklineventure",
+        "picture": "images/speakers/Tegan_Kline.jpg"
+    },
+    {
         "company": "ENS",
         "first_name": "Makoto",
         "last_name": "Inoue",
@@ -70,18 +77,11 @@ var speakers = [
         "picture": "images/speakers/Hadrien_Croubois.jpg"
     },
     {
-        "company": "Linum Labs",
-        "first_name": "Paula",
-        "last_name": "Pettit",
-        "link": "https://twitter.com/paulapbpb",
-        "picture": "images/speakers/Paula_Pettit.jpg"
-    },
-    {
-        "company": "iExec",
-        "first_name": "Hadrien",
-        "last_name": "Croubois",
-        "link": "https://twitter.com/amxx",
-        "picture": "images/speakers/Hadrien_Croubois.jpg"
+        "company": "Streamr",
+        "first_name": "Henri",
+        "last_name": "Pihkala",
+        "link": "https://twitter.com/henripihkala",
+        "picture": "images/speakers/Henri_Pihkala.jpg"
     },
     {
         "company": "Winding Tree",
@@ -112,11 +112,11 @@ var speakers = [
         "picture": "images/speakers/David_Truong.jpg"
     },
     {
-        "company": "Streamr",
-        "first_name": "Henri",
-        "last_name": "Pihkala",
-        "link": "https://twitter.com/henripihkala",
-        "picture": "images/speakers/Henri_Pihkala.jpg"
+        "company": "Linum Labs",
+        "first_name": "Paula",
+        "last_name": "Pettit",
+        "link": "https://twitter.com/paulapbpb",
+        "picture": "images/speakers/Paula_Pettit.jpg"
     },
     {
         "company": "Aave",
@@ -131,13 +131,6 @@ var speakers = [
         "last_name": "Persiani",
         "link": "https://www.linkedin.com/in/riccardo-persiani/",
         "picture": "images/speakers/Riccardo_Persiani.jpg"
-    },
-    {
-        "company": "The Graph",
-        "first_name": "Tegan",
-        "last_name": "Kline",
-        "link": "https://twitter.com/theklineventure",
-        "picture": "images/speakers/Tegan_Kline.jpg"
     },
     {
         "company": "ConsenSys",
