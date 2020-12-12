@@ -18,14 +18,14 @@ var speakers = [
         "first_name": "Tim",
         "last_name": "Beiko",
         "link": "https://twitter.com/timbeiko",
-        "picture": "images/speakers/Tim_Beiko.png"
+        "picture": "images/speakers/Tim_Beiko.jpg"
     },
     {
         "company": "ENS",
         "first_name": "Makoto",
         "last_name": "Inoue",
         "link": "https://twitter.com/makoto_inoue",
-        "picture": "images/speakers/Makoto_Inoue.jpeg"
+        "picture": "images/speakers/Makoto_Inoue.jpg"
     },
     {
         "company": "hermez.io",
@@ -39,7 +39,7 @@ var speakers = [
         "first_name": "Emilio",
         "last_name": "Frangella",
         "link": "https://twitter.com/The3D_",
-        "picture": "images/speakers/Emilio_Frangela.png"
+        "picture": "images/speakers/Emilio_Frangela.jpg"
     },
     {
         "company": "Monolith",
@@ -67,7 +67,7 @@ var speakers = [
         "first_name": "Hadrien",
         "last_name": "Croubois",
         "link": "https://twitter.com/Amxx",
-        "picture": "images/speakers/Hadrien_Croubois.png"
+        "picture": "images/speakers/Hadrien_Croubois.jpg"
     },
     {
         "company": "Linum Labs",
@@ -81,7 +81,7 @@ var speakers = [
         "first_name": "Hadrien",
         "last_name": "Croubois",
         "link": "https://twitter.com/amxx",
-        "picture": "images/speakers/Hadrien_Croubois.png"
+        "picture": "images/speakers/Hadrien_Croubois.jpg"
     },
     {
         "company": "Winding Tree",
@@ -95,14 +95,14 @@ var speakers = [
         "first_name": "Pedro",
         "last_name": "Gomes",
         "link": "https://twitter.com/pedrouid",
-        "picture": "images/speakers/Pedro_Gomes.png"
+        "picture": "images/speakers/Pedro_Gomes.jpg"
     },
     {
         "company": "Status",
         "first_name": "Simona",
         "last_name": "Pop",
         "link": "https://twitter.com/Sim_Pop",
-        "picture": "images/speakers/Simona_Pop.jpeg"
+        "picture": "images/speakers/Simona_Pop.jpg"
     },
     {
         "company": "Aave",
@@ -165,14 +165,14 @@ var speakers = [
         "first_name": "Eduardo",
         "last_name": "Antuña",
         "link": "https://twitter.com/eduadiez",
-        "picture": "images/speakers/Eduardo_Antuna.png"
+        "picture": "images/speakers/Eduardo_Antuna.jpg"
     },
     {
         "company": " Near Foundation",
         "first_name": "Sonja",
         "last_name": "Prstec",
         "link": "https://www.linkedin.com/in/sonja-prstec-mag-iur-89a0b324/",
-        "picture": "images/speakers/Sonja_Prstec.png"
+        "picture": "images/speakers/Sonja_Prstec.jpg"
     },
     {
         "company": "Furucombo",
@@ -207,6 +207,6 @@ var speakers = [
         "first_name": "Dr. Steven",
         "last_name": "Waterhouse ",
         "link": "https://twitter.com/deseventral",
-        "picture": "images/speakers/Steven_Waterhouse.png"
+        "picture": "images/speakers/Steven_Waterhouse.jpg"
     }
 ]
