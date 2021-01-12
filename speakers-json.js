@@ -201,5 +201,117 @@ var speakers = [
         "last_name": "Waterhouse ",
         "link": "https://twitter.com/deseventral",
         "picture": "images/speakers/Steven_Waterhouse.jpg"
+    },
+    {
+        "company": "Ethereum Foundation",
+        "first_name": "Christian",
+        "last_name": "Reitwiessner",
+        "link": "https://twitter.com/ethchris",
+        "picture": "images/speakers/Christian_Reitwiessner.jpg"
+    },
+    {
+        "company": "General Protocols",
+        "first_name": "Rosco",
+        "last_name": "Kalis",
+        "link": "https://twitter.com/RoscoKalis",
+        "picture": "images/speakers/Rosco_Kalis.jpg"
+    },
+    {
+        "company": "ConsenSys Diligence",
+        "first_name": "Brianna",
+        "last_name": "Montgomery",
+        "link": "https://twitter.com/consensysaudits",
+        "picture": "images/speakers/Brianna_Montgomery.jpg"
+    },
+    {
+        "company": "GoodDollar.org",
+        "first_name": "Anna",
+        "last_name": "Stone",
+        "link": "https://www.linkedin.com/in/annalstone/",
+        "picture": "images/speakers/Anna_Stone.jpg"
+    },
+    {
+        "company": "ChainSafe Systems",
+        "first_name": "Aidan",
+        "last_name": "Hyman",
+        "link": "https://twitter.com/chainsafeth",
+        "picture": "images/speakers/Aidan_Hyman.jpg"
+    },
+    {
+        "company": "Ethereum Explorer, Giveth, Commons Stack",
+        "first_name": "Kris",
+        "last_name": "Decoodt",
+        "link": "https://twitter.com/@krrisis",
+        "picture": "images/speakers/Kris_Decoodt.jpg"
+    },
+    {
+        "company": "Tellor",
+        "first_name": "Brenda",
+        "last_name": "Loya",
+        "link": "https://twitter.com/justbrendax",
+        "picture": "images/speakers/Brenda_Loya.jpg"
+    },
+    {
+        "company": "Blockchains LLC",
+        "first_name": "Christoph",
+        "last_name": "Jentzsch",
+        "link": "https://twitter.com/ChrJentzsch",
+        "picture": "images/speakers/Christoph_Jentzsch.jpg"
+    },
+    {
+        "company": "Ethereum Foundation",
+        "first_name": "Franziska",
+        "last_name": "Heintel",
+        "link": "https://twitter.com/_franzihei",
+        "picture": "images/speakers/Franziska_Heintel.jpg"
+    },
+    {
+        "company": "Radicle",
+        "first_name": "Abigael",
+        "last_name": "Titcomb",
+        "link": "https://twitter.com/abbey_titcomb",
+        "picture": "images/speakers/Abigael_Titcomb.jpg"
+    },
+    {
+        "company": "AVADO",
+        "first_name": "Stefaan",
+        "last_name": "Ponnet",
+        "link": "https://twitter.com/AvadoCloud",
+        "picture": "images/speakers/Stefaan_Ponnet.jpg"
+    },
+    {
+        "company": "DeversiFi",
+        "first_name": "Will",
+        "last_name": "Harborne",
+        "link": "https://twitter.com/will_harborne",
+        "picture": "images/speakers/Will_Harborne.jpg"
+    },
+    {
+        "company": "Kaiko",
+        "first_name": "Ambre",
+        "last_name": "Soubiran",
+        "link": "https://twitter.com/ambresoub",
+        "picture": "images/speakers/Ambre_Soubiran.jpg"
+    },
+    {
+        "company": "Kleros",
+        "first_name": "William",
+        "last_name": "George",
+        "link": "https://twitter.com/williamhwgeorge",
+        "picture": "images/speakers/William_George.jpg"
+    },
+    {
+        "company": "Aave",
+        "first_name": "Ajit kumar",
+        "last_name": "Tripathi",
+        "link": "https://twitter.com/chainyoda",
+        "picture": "images/speakers/Ajit-kumar_Tripathi.jpg"
+    },
+    {
+        "company": "Kaiko",
+        "first_name": "Clara",
+        "last_name": "Medalie",
+        "link": "https://twitter.com/Clara_Medalie",
+        "picture": "images/speakers/Clara_Medalie.jpg"
     }
 ]
