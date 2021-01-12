@@ -305,7 +305,7 @@ var speakers = [
         "first_name": "Ajit kumar",
         "last_name": "Tripathi",
         "link": "https://twitter.com/chainyoda",
-        "picture": "images/speakers/Ajit-kumar_Tripathi.jpg"
+        "picture": "images/speakers/Ajit_Kumar_Tripathi.jpg"
     },
     {
         "company": "Kaiko",
