@@ -218,7 +218,7 @@ jQuery(document).ready(function($) {
 
 	var siteCountDown = function() {
 		// End date '2020/03/03 GMT+1 09:30' in ISO Format for Safari support
-		var end_date = new Date('2021-04-06T09:30:00');
+		var end_date = new Date('2021-07-20T09:30:00');
 		$('#date-countdown').countdown(end_date, function(event) {
 		  var $this = $(this).html(event.strftime(''
 		    + '<span class="countdown-block"><span class="label">%w</span> weeks </span>'
