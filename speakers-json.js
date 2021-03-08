@@ -313,5 +313,145 @@ var speakers = [
         "last_name": "Medalie",
         "link": "https://twitter.com/Clara_Medalie",
         "picture": "images/speakers/Clara_Medalie.jpg"
+    },
+    {
+        "company": "Streamr",
+        "first_name": "Shiv",
+        "last_name": "Malik",
+        "link": "https://twitter.com/shivmalik",
+        "picture": "images/speakers/Shiv_Malik.jpg"
+    },
+    {
+        "company": "INATBA",
+        "first_name": "Marc",
+        "last_name": "Taverner",
+        "link": "https://twitter.com/blocktav",
+        "picture": "images/speakers/Marc_Taverner.jpg"
+    },
+    {
+        "company": "Aave",
+        "first_name": "Rowan",
+        "last_name": "Van Ginkel",
+        "link": "https://twitter.com/Yarrr_Pirate",
+        "picture": "images/speakers/Rowan_Van_Ginkel.jpg"
+    },
+    {
+        "company": "LedgerPrime",
+        "first_name": "Ayesha",
+        "last_name": "Kiani",
+        "link": "https://www.linkedin.com/in/ayeshakiani/",
+        "picture": "images/speakers/Ayesha_Kiani.jpg"
+    },
+    {
+        "company": "cLabs",
+        "first_name": "Markus",
+        "last_name": "Franke",
+        "link": "https://www.linkedin.com/in/markus-f-82242028/",
+        "picture": "images/speakers/Markus_Franke.jpg"
+    },
+    {
+        "company": "BPCE",
+        "first_name": "Cyril",
+        "last_name": "Vignet",
+        "link": "https://www.linkedin.com/in/cyril-vignet-423704bb/",
+        "picture": "images/speakers/Cyril_Vignet.jpg"
+    },
+    {
+        "company": "LazyLedger",
+        "first_name": "John",
+        "last_name": "Adler",
+        "link": "https://twitter.com/jadler0",
+        "picture": "images/speakers/John_Adler.jpg"
+    },
+    {
+        "company": "SKALE Labs",
+        "first_name": "Konstatin",
+        "last_name": "Kladko",
+        "link": "https://twitter.com/Stan_Kladko",
+        "picture": "images/speakers/Konstatin_Kladko.jpg"
+    },
+    {
+        "company": "Grassroots Economics",
+        "first_name": "Rebecca",
+        "last_name": "Mqamelo",
+        "link": "https://twitter.com/Rebecca_Mqamelo",
+        "picture": "images/speakers/Rebecca_Mqamelo.jpg"
+    },
+    {
+        "company": "Ethereum Push Notification Service (EPNS)",
+        "first_name": "Harsh",
+        "last_name": "Rajat",
+        "link": "https://twitter.com/harshrajat",
+        "picture": "images/speakers/Harsh_Rajat.jpg"
+    },
+    {
+        "company": "Arianee",
+        "first_name": "Luc",
+        "last_name": "Jodet",
+        "link": "https://twitter.com/lucjodet",
+        "picture": "images/speakers/Luc_Jodet.jpg"
+    },
+    {
+        "company": "Kleros",
+        "first_name": "Ferit",
+        "last_name": "Tuncer",
+        "link": "https://twitter.com/0xferittuncer",
+        "picture": "images/speakers/Ferit_Tuncer.jpg"
+    },
+    {
+        "company": "YAP Global",
+        "first_name": "Samantha",
+        "last_name": "Yap",
+        "link": "https://twitter.com/samanthawyap",
+        "picture": "images/speakers/Samantha_Yap.jpg"
+    },
+    {
+        "company": "Cooperative Kleros",
+        "first_name": "Federico",
+        "last_name": "Ast",
+        "link": "https://twitter.com/federicoast",
+        "picture": "images/speakers/Federico_Ast.jpg"
+    },
+    {
+        "company": "Kaiko",
+        "first_name": "Sacha",
+        "last_name": "Ghebali",
+        "link": "https://twitter.com/sgheb",
+        "picture": "images/speakers/Sacha_Ghebali.jpg"
+    },
+    {
+        "company": "IOVLabs",
+        "first_name": "Solange",
+        "last_name": "Gueiros",
+        "link": "https://www.linkedin.com/in/solangegueiros/",
+        "picture": "images/speakers/Solange_Gueiros.jpg"
+    },
+    {
+        "company": "Fountain",
+        "first_name": "Jacek",
+        "last_name": "Czarnecki",
+        "link": "https://www.linkedin.com/in/jacekczarnecki/",
+        "picture": "images/speakers/Jacek_Czarnecki.jpg"
+    },
+    {
+        "company": "Infrachain",
+        "first_name": "Fabrice",
+        "last_name": "Croiseaux",
+        "link": "https://www.linkedin.com/in/fcroiseaux/",
+        "picture": "images/speakers/Fabrice_Croiseaux.jpg"
+    },
+    {
+        "company": "Witnet Foundation",
+        "first_name": "Claudia",
+        "last_name": "Bartoli",
+        "link": "https://www.linkedin.com/in/claudia-bartoli/",
+        "picture": "images/speakers/Claudia_Bartoli.jpg"
+    },
+    {
+        "company": "iExec",
+        "first_name": "Gilles",
+        "last_name": "Fedak",
+        "link": "https://twitter.com/iex_ec",
+        "picture": "images/speakers/Gilles_Fedak.jpg"
     }
 ]
