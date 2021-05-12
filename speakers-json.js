@@ -453,5 +453,166 @@ var speakers = [
         "last_name": "Fedak",
         "link": "https://twitter.com/iex_ec",
         "picture": "images/speakers/Gilles_Fedak.jpg"
+    },
+    {
+        "company": "Ethereum France",
+        "first_name": "Nathan",
+        "last_name": "Sexer",
+        "link": "https://twitter.com/NathanSexer",
+        "picture": "images/speakers/Nathan_Sexer.jpg"
+    },
+    {
+        "company": "Fountain",
+        "first_name": "Mathieu",
+        "last_name": "Chanson",
+        "link": "https://www.linkedin.com/in/mathieuchanson/",
+        "picture": "images/speakers/Mathieu_Chanson.jpg"
+    },
+    {
+        "company": "pNetwork",
+        "first_name": "Thomas",
+        "last_name": "Bertani",
+        "link": "https://twitter.com/ThomasBertani",
+        "picture": "images/speakers/Thomas_Bertani.jpg"
+    },
+    {
+        "company": "Nexo",
+        "first_name": "Nikolay",
+        "last_name": "Angelov",
+        "link": "https://www.linkedin.com/in/thedi/",
+        "picture": "images/speakers/Nikolay_Angelov.jpg"
+    },
+    {
+        "company": "Visa Research",
+        "first_name": "Srinivasan",
+        "last_name": "Raghuraman",
+        "link": "https://twitter.com/srini131293",
+        "picture": "images/speakers/Srinivasan_Raghuraman.jpg"
+    },
+    {
+        "company": "SelfKey",
+        "first_name": "Sasha",
+        "last_name": "Tanase",
+        "link": "https://twitter.com/sasha_tanase",
+        "picture": "images/speakers/Sasha_Tanase.jpg"
+    },
+    {
+        "company": "Democracy Earth Foundation",
+        "first_name": "Santiago",
+        "last_name": "Siri",
+        "link": "https://twitter.com/santisiri",
+        "picture": "images/speakers/Santiago_Siri.jpg"
+    },
+    {
+        "company": "Ethereum Foundation",
+        "first_name": "Barnabe",
+        "last_name": "Monnot",
+        "link": "https://twitter.com/barnabemonnot",
+        "picture": "images/speakers/Barnabe_Monnot.jpg"
+    },
+    {
+        "company": "Bitwala",
+        "first_name": "Benjamin",
+        "last_name": "Jones",
+        "link": "https://twitter.com/BenPeterJones",
+        "picture": "images/speakers/Benjamin_Jones.jpg"
+    },
+    {
+        "company": "Consensys",
+        "first_name": "Sajida",
+        "last_name": "Zouarhi",
+        "link": "https://twitter.com/Saj_JZ",
+        "picture": "images/speakers/Sajida_Zouarhi.jpg"
+    },
+    {
+        "company": "Gnosis Safe",
+        "first_name": "Richard",
+        "last_name": "Meissner",
+        "link": "https://twitter.com/rimeissner",
+        "picture": "images/speakers/Richard_Meissner.jpg"
+    },
+    {
+        "company": "Etherplay",
+        "first_name": "Ronan",
+        "last_name": "Sandford",
+        "link": "https://twitter.com/wighawag",
+        "picture": "images/speakers/Ronan_Sandford.jpg"
+    },
+    {
+        "company": "Amazon Web Services",
+        "first_name": "Everton",
+        "last_name": "Fraga",
+        "link": "https://twitter.com/evertonfraga",
+        "picture": "images/speakers/Everton_Fraga.jpg"
+    },
+    {
+        "company": "Harvard / CNRS",
+        "first_name": "Primavera",
+        "last_name": "De filippi",
+        "link": "https://twitter.com/yaoeo",
+        "picture": "images/speakers/Primavera_De_Filippi.jpg"
+    },
+    {
+        "company": "Multis",
+        "first_name": "Thibaut",
+        "last_name": "Sahaghian",
+        "link": "https://www.linkedin.com/in/tsahaghian/",
+        "picture": "images/speakers/Thibaut_Sahaghian.jpg"
+    },
+    {
+        "company": "Sushi.com",
+        "first_name": "Joseph",
+        "last_name": "Delong",
+        "link": "https://twitter.com/josephdelong",
+        "picture": "images/speakers/Joseph_Delong.jpg"
+    },
+    {
+        "company": "L2P.finance",
+        "first_name": "Alexis",
+        "last_name": "Masseron",
+        "link": "https://twitter.com/AlexisMasseron",
+        "picture": "images/speakers/Alexis_Masseron.jpg"
+    },
+    {
+        "company": "Ledger",
+        "first_name": "Matt",
+        "last_name": "Johnson",
+        "link": "https://www.ledger.com/people/matt-johnson",
+        "picture": "images/speakers/Matt_Johnson.jpg"
+    },
+    {
+        "company": "Ledger",
+        "first_name": "Jean",
+        "last_name": "Passot",
+        "link": "https://www.linkedin.com/in/jean-p-68100312a/",
+        "picture": "images/speakers/Jean_Passot.jpg"
+    },
+    {
+        "company": "Stake Capital",
+        "first_name": "Julien",
+        "last_name": "Bouteloup",
+        "link": "https://twitter.com/bneiluj",
+        "picture": "images/speakers/Julien_Bouteloup.jpg"
+    },
+    {
+        "company": "Boson Protocol",
+        "first_name": "Holy",
+        "last_name": "Atkinson",
+        "link": "https://twitter.com/haatkinson",
+        "picture": "images/speakers/Holy_Atkinson.jpg"
+    },
+    {
+        "company": "rotki",
+        "first_name": "Lefteris",
+        "last_name": "Karapetsas",
+        "link": "https://twitter.com/lefterisjp",
+        "picture": "images/speakers/Lefteris_Karapetsas.jpg"
+    },
+    {
+        "company": "Paladin",
+        "first_name": "Romain",
+        "last_name": "Figuereo",
+        "link": "https://twitter.com/Figue_me",
+        "picture": "images/speakers/Romain_Figuereo.jpg"
     }
 ]
