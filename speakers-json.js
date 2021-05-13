@@ -490,7 +490,7 @@ var speakers = [
         "picture": "images/speakers/Srinivasan_Raghuraman.jpg"
     },
     {
-        "company": "SelfKey",
+        "company": "Keep Network",
         "first_name": "Sasha",
         "last_name": "Tanase",
         "link": "https://twitter.com/sasha_tanase",
