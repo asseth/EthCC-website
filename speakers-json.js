@@ -203,13 +203,6 @@ var speakers = [
         "picture": "images/speakers/Steven_Waterhouse.jpg"
     },
     {
-        "company": "Ethereum Foundation",
-        "first_name": "Christian",
-        "last_name": "Reitwiessner",
-        "link": "https://twitter.com/ethchris",
-        "picture": "images/speakers/Christian_Reitwiessner.jpg"
-    },
-    {
         "company": "General Protocols",
         "first_name": "Rosco",
         "last_name": "Kalis",
