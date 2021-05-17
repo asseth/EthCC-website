@@ -490,7 +490,7 @@ var speakers = [
         "picture": "images/speakers/Srinivasan_Raghuraman.jpg"
     },
     {
-        "company": "SelfKey",
+        "company": "Keep Network",
         "first_name": "Sasha",
         "last_name": "Tanase",
         "link": "https://twitter.com/sasha_tanase",
@@ -596,10 +596,10 @@ var speakers = [
     },
     {
         "company": "Boson Protocol",
-        "first_name": "Holy",
+        "first_name": "Holly",
         "last_name": "Atkinson",
         "link": "https://twitter.com/haatkinson",
-        "picture": "images/speakers/Holy_Atkinson.jpg"
+        "picture": "images/speakers/Holly_Atkinson.jpg"
     },
     {
         "company": "rotki",
