@@ -308,7 +308,7 @@ var speakers = [
         "picture": "images/speakers/Clara_Medalie.jpg"
     },
     {
-        "company": "Streamr",
+        "company": "Pool Foundation",
         "first_name": "Shiv",
         "last_name": "Malik",
         "link": "https://twitter.com/shivmalik",
