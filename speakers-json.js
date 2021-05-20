@@ -420,13 +420,6 @@ var speakers = [
         "picture": "images/speakers/Solange_Gueiros.jpg"
     },
     {
-        "company": "Fountain",
-        "first_name": "Jacek",
-        "last_name": "Czarnecki",
-        "link": "https://www.linkedin.com/in/jacekczarnecki/",
-        "picture": "images/speakers/Jacek_Czarnecki.jpg"
-    },
-    {
         "company": "Infrachain",
         "first_name": "Fabrice",
         "last_name": "Croiseaux",
