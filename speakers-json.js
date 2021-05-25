@@ -1,12 +1,5 @@
 var speakers = [
     {
-        "company": "Byzantine Fault",
-        "first_name": "Afri",
-        "last_name": "Schoedon",
-        "link": "https://twitter.com/q9fmz",
-        "picture": "images/speakers/Afri_Schoedon.jpg"
-    },
-    {
         "company": "Ethereum Foundation",
         "first_name": "Martin",
         "last_name": "Lundfall",
