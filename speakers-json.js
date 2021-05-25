@@ -308,7 +308,7 @@ var speakers = [
         "picture": "images/speakers/Clara_Medalie.jpg"
     },
     {
-        "company": "Streamr",
+        "company": "Pool Foundation",
         "first_name": "Shiv",
         "last_name": "Malik",
         "link": "https://twitter.com/shivmalik",
@@ -418,13 +418,6 @@ var speakers = [
         "last_name": "Gueiros",
         "link": "https://www.linkedin.com/in/solangegueiros/",
         "picture": "images/speakers/Solange_Gueiros.jpg"
-    },
-    {
-        "company": "Fountain",
-        "first_name": "Jacek",
-        "last_name": "Czarnecki",
-        "link": "https://www.linkedin.com/in/jacekczarnecki/",
-        "picture": "images/speakers/Jacek_Czarnecki.jpg"
     },
     {
         "company": "Infrachain",
