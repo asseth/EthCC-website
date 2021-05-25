@@ -105,13 +105,6 @@ var speakers = [
         "picture": "images/speakers/Simona_Pop.jpg"
     },
     {
-        "company": "Aave",
-        "first_name": "David",
-        "last_name": "Truong ",
-        "link": "https://twitter.com/daveytea",
-        "picture": "images/speakers/David_Truong.jpg"
-    },
-    {
         "company": "Linum Labs",
         "first_name": "Paula",
         "last_name": "Pettit",
@@ -320,13 +313,6 @@ var speakers = [
         "last_name": "Taverner",
         "link": "https://twitter.com/blocktav",
         "picture": "images/speakers/Marc_Taverner.jpg"
-    },
-    {
-        "company": "Aave",
-        "first_name": "Rowan",
-        "last_name": "Van Ginkel",
-        "link": "https://twitter.com/Yarrr_Pirate",
-        "picture": "images/speakers/Rowan_Van_Ginkel.jpg"
     },
     {
         "company": "LedgerPrime",
