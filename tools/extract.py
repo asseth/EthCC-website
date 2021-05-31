@@ -14,10 +14,10 @@ def is_accepted(row):
         return False
 
 def email_sent(row):
-    return row[10].strip() == "Yes"
+    return row[12].strip() == "Yes"
 
 def already_on_website(row):
-    return row[11].strip() == "Yes"
+    return row[13].strip() == "Yes"
 
 def should_add_to_site(row):
     return is_accepted(row) and email_sent(row) and (not already_on_website(row))
@@ -38,10 +38,10 @@ def get_name(string):
 
 
 def create_entry(row):
-    company = row[5]
+    company = row[7]
     first_name = get_name(row[2])
     last_name = get_name(row[1])
-    link = get_link(row[8])
+    link = get_link(row[10])
     picture = "images/speakers/{}_{}.jpg".format(first_name, last_name)
     entry = { "company": company,
                 "first_name": first_name,
@@ -61,3 +61,4 @@ with open(args.file, 'r') as csv_file:
             entry = create_entry(row)
             array.append(entry)
     print(json.dumps(array, indent=4))
+    print("Found {} new speakers".format(len(array)))
