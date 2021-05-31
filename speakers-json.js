@@ -579,5 +579,355 @@ var speakers = [
         "last_name": "Figuereo",
         "link": "https://twitter.com/Figue_me",
         "picture": "images/speakers/Romain_Figuereo.jpg"
+    },
+    {
+        "company": "Chainlink",
+        "first_name": "Johann",
+        "last_name": "Eid",
+        "link": "https://twitter.com/EidJohann",
+        "picture": "images/speakers/Johann_Eid.jpg"
+    },
+    {
+        "company": "Kleros",
+        "first_name": "Matheus",
+        "last_name": "Alencar",
+        "link": "https://twitter.com/mtsalenc",
+        "picture": "images/speakers/Matheus_Alencar.jpg"
+    },
+    {
+        "company": "Fei Protocol",
+        "first_name": "Joey",
+        "last_name": "Santoro",
+        "link": "https://twitter.com/Joey__Santoro",
+        "picture": "images/speakers/Joey_Santoro.jpg"
+    },
+    {
+        "company": "ECAN",
+        "first_name": "Xavier",
+        "last_name": "Lavayssiere",
+        "link": "https://twitter.com/xavierlava",
+        "picture": "images/speakers/Xavier_Lavayssiere.jpg"
+    },
+    {
+        "company": "EidooCard",
+        "first_name": "Michele",
+        "last_name": "Montecchi",
+        "link": "https://www.linkedin.com/in/michele-montecchi-b8025921/",
+        "picture": "images/speakers/Michele_Montecchi.jpg"
+    },
+    {
+        "company": "Tel Aviv University and Certora",
+        "first_name": "Mooly",
+        "last_name": "Sagiv",
+        "link": "https://twitter.com/SagivMooly",
+        "picture": "images/speakers/Mooly_Sagiv.jpg"
+    },
+    {
+        "company": "Gelato",
+        "first_name": "Hilmar",
+        "last_name": "Orth",
+        "link": "https://twitter.com/hilmarxo",
+        "picture": "images/speakers/Hilmar_Orth.jpg"
+    },
+    {
+        "company": "Kleros",
+        "first_name": "Plinio",
+        "last_name": "Braga",
+        "link": "https://twitter.com/pliniobraga_",
+        "picture": "images/speakers/Plinio_Braga.jpg"
+    },
+    {
+        "company": "MIT Media Lab",
+        "first_name": "Daniel",
+        "last_name": "Marquez",
+        "link": "https://twitter.com/Bumangues92",
+        "picture": "images/speakers/Daniel_Marquez.jpg"
+    },
+    {
+        "company": "Storj Labs",
+        "first_name": "Kevin",
+        "last_name": "Leffew",
+        "link": "https://www.linkedin.com/in/kevinleffew/",
+        "picture": "images/speakers/Kevin_Leffew.jpg"
+    },
+    {
+        "company": "Commonwealth Labs",
+        "first_name": "Drew",
+        "last_name": "Stone",
+        "link": "https://twitter.com/drew___stone",
+        "picture": "images/speakers/Drew_Stone.jpg"
+    },
+    {
+        "company": "NuCypher",
+        "first_name": "Ravital",
+        "last_name": "Solomon",
+        "link": "https://www.linkedin.com/in/ravital/",
+        "picture": "images/speakers/Ravital_Solomon.jpg"
+    },
+    {
+        "company": "Crypto art advisor and collector",
+        "first_name": "Fanny",
+        "last_name": "Lakoubay",
+        "link": "https://twitter.com/twitter.com/flakoubay",
+        "picture": "images/speakers/Fanny_Lakoubay.jpg"
+    },
+    {
+        "company": "European Investment Fund",
+        "first_name": "Rene",
+        "last_name": "Andres",
+        "link": "https://www.linkedin.com/in/ren%C3%A9-andres-663457aa/",
+        "picture": "images/speakers/Rene_Andres.jpg"
+    },
+    {
+        "company": "Ethertrust",
+        "first_name": "Pascal",
+        "last_name": "Urien",
+        "link": "https://www.linkedin.com/in/pascal-urien-a491738",
+        "picture": "images/speakers/Pascal_Urien.jpg"
+    },
+    {
+        "company": "Biconomy ",
+        "first_name": "Ahmed",
+        "last_name": "Al-balaghi",
+        "link": "https://twitter.com/arabalaghi",
+        "picture": "images/speakers/Ahmed_Al-balaghi.jpg"
+    },
+    {
+        "company": "1inch Network",
+        "first_name": "Anton",
+        "last_name": "Bukov",
+        "link": "https://twitter.com/k06a",
+        "picture": "images/speakers/Anton_Bukov.jpg"
+    },
+    {
+        "company": "Harmony",
+        "first_name": "Stephen",
+        "last_name": "Tse",
+        "link": "https://twitter.com/stse",
+        "picture": "images/speakers/Stephen_Tse.jpg"
+    },
+    {
+        "company": "Techintern.io",
+        "first_name": "Kingsong",
+        "last_name": "Chen",
+        "link": "https://www.linkedin.com/in/kingsong/",
+        "picture": "images/speakers/Kingsong_Chen.jpg"
+    },
+    {
+        "company": "Autonomous lawyer",
+        "first_name": "Fatemeh",
+        "last_name": "Fannizadeh",
+        "link": "https://twitter.com/fatalmeh",
+        "picture": "images/speakers/Fatemeh_Fannizadeh.jpg"
+    },
+    {
+        "company": "Opera",
+        "first_name": "Susie",
+        "last_name": "Batt",
+        "link": "https://www.linkedin.com/in/susiebatt/",
+        "picture": "images/speakers/Susie_Batt.jpg"
+    },
+    {
+        "company": "Blockchangers",
+        "first_name": "Jon",
+        "last_name": "Ramvi",
+        "link": "https://twitter.com/JonRamvi",
+        "picture": "images/speakers/Jon_Ramvi.jpg"
+    },
+    {
+        "company": "TrueBlocks, LLC",
+        "first_name": "Thomas-Jay",
+        "last_name": "Rush",
+        "link": "https://twitter.com/trueblocks",
+        "picture": "images/speakers/Thomas-Jay_Rush.jpg"
+    },
+    {
+        "company": "Delphia",
+        "first_name": "Allison",
+        "last_name": "Reichel",
+        "link": "https://twitter.com/AllisonReichel",
+        "picture": "images/speakers/Allison_Reichel.jpg"
+    },
+    {
+        "company": "Filecoin Foundation",
+        "first_name": "Marta",
+        "last_name": "Belcher",
+        "link": "https://twitter.com/martabelcher",
+        "picture": "images/speakers/Marta_Belcher.jpg"
+    },
+    {
+        "company": "3Box Labs",
+        "first_name": "Joel",
+        "last_name": "Thorstensson",
+        "link": "https://twitter.com/oedth",
+        "picture": "images/speakers/Joel_Thorstensson.jpg"
+    },
+    {
+        "company": "GoodGhosting",
+        "first_name": "Rachel",
+        "last_name": "Black",
+        "link": "https://twitter.com/rachblondon",
+        "picture": "images/speakers/Rachel_Black.jpg"
+    },
+    {
+        "company": "Bitfly",
+        "first_name": "Stefan",
+        "last_name": "Starflinger",
+        "link": "https://twitter.com/stefan_star",
+        "picture": "images/speakers/Stefan_Starflinger.jpg"
+    },
+    {
+        "company": "HOPR",
+        "first_name": "Amira",
+        "last_name": "Bouguera",
+        "link": "https://twitter.com/amirabouguera",
+        "picture": "images/speakers/Amira_Bouguera.jpg"
+    },
+    {
+        "company": "https://web3api.dev",
+        "first_name": "Jordan",
+        "last_name": "Ellis",
+        "link": "https://twitter.com/Web3API",
+        "picture": "images/speakers/Jordan_Ellis.jpg"
+    },
+    {
+        "company": "Paraswap",
+        "first_name": "Shresth",
+        "last_name": "Agrawal",
+        "link": "https://twitter.com/shresth3103",
+        "picture": "images/speakers/Shresth_Agrawal.jpg"
+    },
+    {
+        "company": "EF",
+        "first_name": "Austin",
+        "last_name": "Griffith",
+        "link": "https://twitter.com/austingriffith",
+        "picture": "images/speakers/Austin_Griffith.jpg"
+    },
+    {
+        "company": "Centrifuge",
+        "first_name": "Cassidy",
+        "last_name": "Daly",
+        "link": "https://twitter.com/cassidydaly",
+        "picture": "images/speakers/Cassidy_Daly.jpg"
+    },
+    {
+        "company": "Nethermind",
+        "first_name": "Tomasz",
+        "last_name": "Stanczak",
+        "link": "https://twitter.com/tkstanczak",
+        "picture": "images/speakers/Tomasz_Stanczak.jpg"
+    },
+    {
+        "company": "Oiler Network",
+        "first_name": "Victor",
+        "last_name": "Naumik",
+        "link": "https://twitter.com/vicnaum1",
+        "picture": "images/speakers/Victor_Naumik.jpg"
+    },
+    {
+        "company": "Brainbot",
+        "first_name": "Jannik",
+        "last_name": "Luhn",
+        "link": "https://twitter.com/AnotherJannik",
+        "picture": "images/speakers/Jannik_Luhn.jpg"
+    },
+    {
+        "company": "Raiden Network",
+        "first_name": "Jacob",
+        "last_name": "Czepluch",
+        "link": "https://twitter.com/_czepluch",
+        "picture": "images/speakers/Jacob_Czepluch.jpg"
+    },
+    {
+        "company": "Gnosis",
+        "first_name": "Felix",
+        "last_name": "Leupold",
+        "link": "https://twitter.com/fleupold_",
+        "picture": "images/speakers/Felix_Leupold.jpg"
+    },
+    {
+        "company": "ConsenSys",
+        "first_name": "James",
+        "last_name": "Beck",
+        "link": "https://twitter.com/jamesjohnbeck",
+        "picture": "images/speakers/James_Beck.jpg"
+    },
+    {
+        "company": "Golem Network",
+        "first_name": "Maria-Paula",
+        "last_name": "Fernandez",
+        "link": "https://twitter.com/@MPtherealMVP",
+        "picture": "images/speakers/Maria-Paula_Fernandez.jpg"
+    },
+    {
+        "company": "The Mangrove",
+        "first_name": "Vincent",
+        "last_name": "Danos",
+        "link": "https://twitter.com/vee3my",
+        "picture": "images/speakers/Vincent_Danos.jpg"
+    },
+    {
+        "company": "MakerDAO",
+        "first_name": "Gustav",
+        "last_name": "Arentoft",
+        "link": "https://twitter.com/GArentoft",
+        "picture": "images/speakers/Gustav_Arentoft.jpg"
+    },
+    {
+        "company": "Charged Particles",
+        "first_name": "Ben",
+        "last_name": "Lakoff",
+        "link": "https://twitter.com/benlakoff",
+        "picture": "images/speakers/Ben_Lakoff.jpg"
+    },
+    {
+        "company": "APWine Finance",
+        "first_name": "Gaspard",
+        "last_name": "Peduzzi",
+        "link": "https://twitter.com/GaspardPeduzzi",
+        "picture": "images/speakers/Gaspard_Peduzzi.jpg"
+    },
+    {
+        "company": "Centrifuge/DoD",
+        "first_name": "Helena",
+        "last_name": "Flack",
+        "link": "https://twitter.com/helsfoftroy",
+        "picture": "images/speakers/Helena_Flack.jpg"
+    },
+    {
+        "company": "Celo",
+        "first_name": "Marek",
+        "last_name": "Olszewski",
+        "link": "https://twitter.com/marek_",
+        "picture": "images/speakers/Marek_Olszewski.jpg"
+    },
+    {
+        "company": "https://cosmos.network/",
+        "first_name": "Peng",
+        "last_name": "Zhong",
+        "link": "https://twitter.com/zcpeng",
+        "picture": "images/speakers/Peng_Zhong.jpg"
+    },
+    {
+        "company": "Offshift",
+        "first_name": "Alex",
+        "last_name": "Shipp",
+        "link": "https://twitter.com/AlexShippXFT",
+        "picture": "images/speakers/Alex_Shipp.jpg"
+    },
+    {
+        "company": "Outlier Ventures ",
+        "first_name": "Jamie",
+        "last_name": "Burke",
+        "link": "https://twitter.com/jamie247",
+        "picture": "images/speakers/Jamie_Burke.jpg"
+    },
+    {
+        "company": "Travala",
+        "first_name": "Juan",
+        "last_name": "Otero",
+        "link": "https://twitter.com/joterovila",
+        "picture": "images/speakers/Juan_Otero.jpg"
     }
 ]
