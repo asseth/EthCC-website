@@ -7,7 +7,7 @@ var speakers = [
         "picture": "images/speakers/Martin_Lundfall.jpg"
     },
     {
-        "company": "ConsenSys",
+        "company": "Ethereum Foundation",
         "first_name": "Tim",
         "last_name": "Beiko",
         "link": "https://twitter.com/timbeiko",
