@@ -3,10 +3,11 @@
   max-height: 600px;
   display: block;
   margin: auto;
+  zoom: 1.1;
 }
 
 .sponsor-silver {
-  max-width: 350px;
+  max-width: 400px;
   max-height: 500px;
   padding-top: 50px;
   display: block;
