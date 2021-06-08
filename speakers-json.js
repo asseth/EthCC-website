@@ -63,7 +63,7 @@ var speakers = [
         "picture": "images/speakers/Mahsa_Moosavi.jpg"
     },
     {
-        "company": "iExec",
+        "company": "Open Zeppelin",
         "first_name": "Hadrien",
         "last_name": "Croubois",
         "link": "https://twitter.com/Amxx",
