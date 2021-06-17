@@ -23,12 +23,11 @@
   <link rel="stylesheet" href="css/bootstrap-datepicker.css">
   <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
   <link rel="stylesheet" href="css/aos.css">
-
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/custom.css">
 
   <!-- Unlock Tickets -->
-  <link rel="stylesheet" href="css/unlock.css">
+  <!-- <link rel="stylesheet" href="css/unlock.css">
   <script> (function (d, s) {
       var js = d.createElement(s),
         sc = d.getElementsByTagName(s)[0];
@@ -40,7 +39,7 @@
     var unlockProtocolConfig = { "locks": { "0xe5B16563a38342A2C64EeBb436bc2Da4eC83a531": { "name": "EthCC 4 Regular Ticket" } }, "icon": "https://unlock-protocol.com/static/images/svg/unlock-word-mark.svg",
 		"callToAction": { "default": "Purchase your ticket by clicking on 'Purchase' below. Your web3 wallet will ask you to confirm 2 transactions: one for the DAI transfer, and one for the ticket purchase.",
 		} }
-  </script>
+  </script> -->
 
   <!-- Kyber widget -->
   <link rel='stylesheet' href='https://widget.kyber.network/v0.8.0/widget.css'>
@@ -100,6 +99,7 @@
         <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
           <div class="pricing border-primary text-center">
             <h2>Buy in Euro</h2>
+            <h1>SOLD OUT</h1>
 
             <div class="amount"><sup>€</sup><span class="number">300</span> </div>
             <ul class="list-unstyled mb-5">
@@ -108,13 +108,13 @@
               <li>EthCC Swag</li>
             </ul>
             <div>
-              <a href="https://widget.weezevent.com/ticket/E662794/?id_evenement=662794&lg_billetterie=1&code=73016&locale=fr&width_auto=1&color_primary=00AEEF" onclick="var w=window.open('https://widget.weezevent.com/ticket/E662794/?id_evenement=662794&lg_billetterie=1&code=73016&locale=fr&width_auto=1&color_primary=00AEEF', 'Billetterie_weezevent', 'width=650, height=600, top=100, left=100, toolbar=no, resizable=yes, scrollbars=yes, status=no'); w.focus(); return false;" class="btn-custom" style="letter-spacing:0; font-size: 18px; font-weight: bold; margin: 10px">Buy Ticket</a>
+           <!--    <a href="https://widget.weezevent.com/ticket/E662794/?id_evenement=662794&lg_billetterie=1&code=73016&locale=fr&width_auto=1&color_primary=00AEEF" onclick="var w=window.open('https://widget.weezevent.com/ticket/E662794/?id_evenement=662794&lg_billetterie=1&code=73016&locale=fr&width_auto=1&color_primary=00AEEF', 'Billetterie_weezevent', 'width=650, height=600, top=100, left=100, toolbar=no, resizable=yes, scrollbars=yes, status=no'); w.focus(); return false;" class="btn-custom" style="letter-spacing:0; font-size: 18px; font-weight: bold; margin: 10px">Buy Ticket</a> -->
             </div>
           </div>
         </div>
 
         <!-- LINKS TO UNLOCK PROTOCOL FOR CRYPTO PAYMENTS -->
-        <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+        <!-- <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
           <div class="pricing border-primary text-center">
             <h2>Buy in Crypto</h2>
             <div class="amount"><sup>DAI</sup><span class="number">350</span></div>
@@ -132,36 +132,36 @@
                 class='kyber-widget-button' id="kyber-btn" name='KyberWidget - Powered by KyberNetwork'
 				title='Pay with tokens' target='_blank' style="font-style:bolder">Need to buy DAI?</a> </small>
           </div>
-        </div>
+        </div> -->
 
         <!-- unlock form itself -->
-        <form id="unlock-form" class="unlock_form mfp-hide">
+        <!-- <form id="unlock-form" class="unlock_form mfp-hide">
 
           <h2>Unlock Ticket</h2>
-
+ -->
           <!-- shown for users with no wallet -->
-          <div class="no-wallet">
+        <!--   <div class="no-wallet">
             <p>Please make sure you use a web3 wallet. <br>We recommend <a href="https://metamask.io/">MetaMask</a>.
             </p>
-          </div>
+          </div> -->
 
           <!-- shown for users with a wallet disabled -->
-          <div class="has-wallet">
+        <!--   <div class="has-wallet">
             <p>Please check your wallet and enable it.</p>
-          </div>
+          </div> -->
 
           <!-- shown for users who already have a ticket -->
-          <div class="has-wallet-has-ticket">
+      <!--     <div class="has-wallet-has-ticket">
             <p>You already have a ticket! Thanks for your trust and we're looking forward to seeing you!</p>
             <p>On the day of the event, we recommend that you bring your mobile web3 wallet to show your ticket. You
               can also receive the ticket as a QR code by email by <a target="_blank"
                 href="https://app.unlock-protocol.com/keychain/">going to your keychain</a> and clicking on
               <em>Assert Ownership</em>!</p>
 
-          </div>
+          </div> -->
 
           <!-- shown for users who have a wallet but no ticket yet -->
-          <div class="has-wallet-no-ticket">
+     <!--      <div class="has-wallet-no-ticket">
             <fieldset style="border:0;">
               <p>Please fill this form and submit to purchase a ticket with crypto. Your wallet will prompt you to
                 sign this information and then ask you to confirm your purchase!</p>
@@ -208,8 +208,8 @@
             </fieldset>
           </div>
 
-        </form>
-
+        </form> -->
+<!--
         <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
           <div class="pricing border-primary text-center">
             <h2>Volunteer</h2>
@@ -223,7 +223,7 @@
             <div><p> Get a free ticket to EthCC[4] </p> </div>
             <div><a href="https://docs.google.com/forms/d/e/1FAIpQLScLRRbRJMpH5qypfVyFDRYFR7nF6vDOxq1n7kdHFyoIcdYCtg/viewform?usp=sf_link" target="_blank" class="btn-custom" style="letter-spacing:0; font-size: 18px; font-weight: bold; margin: 10px">Fill in the form</a></div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
